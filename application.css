@@ -1,0 +1,13 @@
+body{
+    width: 95%;
+    margin:auto;
+    background: url(wallpaper2.jpg) center;
+
+    font-family: sans-serif;
+    line-height: 1.5
+}
+
+main{
+    background: #00000033;
+}
+
